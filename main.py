@@ -127,8 +127,8 @@ if __name__ == '__main__':
 
     # item_url = "https://www.mi.com/redmiairdots/?cfrom=search"
     # item_url = "https://www.mi.com/shouhuan4/?cfrom=search"
-    # item_url = "//item.mi.com/product/10000158.html"
-    item_url = "//item.mi.com/1182500054.html"
+    item_url = "//item.mi.com/product/10000158.html"
+    # item_url = "//item.mi.com/1182500054.html"
 
     browser = webdriver.Chrome()
     login()
